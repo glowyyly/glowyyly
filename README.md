@@ -19,8 +19,6 @@
 
 🌱 Currently learning Git & GitHub
 
-🎯 Goal: Become a Full Stack Developer
-
 ☕ Fun Fact: I love creating aesthetic projects.
 
 ---
