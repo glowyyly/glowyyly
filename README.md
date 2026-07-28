@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/YOUR-BANNER-LINK-HERE" width="100%">
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Hi+I'm+Glowy!;Learning+HTML+CSS+JavaScript;Dream+Build+Learn+Repeat" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=🌸+Hi%2C+I'm+Glowy!;💻+Future+Web+Developer;✨+Dream+•+Build+•+Learn+•+Repeat;🌷+Welcome+to+my+GitHub!" />
 </p>
