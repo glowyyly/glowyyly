@@ -7,7 +7,7 @@
 <p align="center">
 Dream • Build • Learn • Repeat
 </p>
-## 🌸 About Me
+# 🌸 About Me
 
 
 💻 Learning HTML, CSS & JavaScript
