@@ -23,7 +23,17 @@
 ---
 
 ## 📊 GitHub Stats
+<!-- 🌸 GitHub Stats 🌸 -->
+<h2 align="center">📊 GitHub Stats</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=glowyyly&show_icons=true&theme=rose_pine&hide_border=true&border_radius=15&icon_color=ff69b4&title_color=ff69b4&text_color=f5c2e7&bg_color=00000000" height="170" />
+  <img src="https://streak-stats.demolab.com?user=glowyyly&theme=rose-pine&hide_border=true&border_radius=15" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowyyly&layout=compact&theme=rose_pine&hide_border=true&border_radius=15&title_color=ff69b4&text_color=f5c2e7&bg_color=00000000" height="170" />
+</p>
 
 ---
 
