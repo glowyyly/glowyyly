@@ -13,8 +13,6 @@
 
 ## 🎀 About Me
 
-🌷 Beginner Web Developer
-
 💗 Currently learning:
 - HTML
 - CSS
