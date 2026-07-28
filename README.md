@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Glowy 👋
 
-<!--
-**glowyyly/glowyyly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌸 About Me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Learning HTML, CSS & JavaScript
+
+🌱 Currently building my coding skills
+
+🚀 DREAM.BUILD.LEARN.REPEAT 
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/glowyyly
+
+---
+
+⭐ Thanks for visiting my profile!
+
