@@ -8,15 +8,15 @@
 　　　　🌸　　　 　 ｡　　　　•　　 ﾟ　　。
 　　　  　　.　　　 　　🌸　　  .　　　　　  ｡
 　　✿　　　 　 　　 ✧　　　  　　 ✿　　　  　 .
-　 ⋆ 　 ✿   havaidenraii　　 ⋆　　🌸　　 ⋆
+　 ⋆ 　 ✿     glowyyly　　 ⋆　　🌸　　 ⋆
 　　　　 ｡ 　 　.　　🌸　　 　 ✧　　　 　　 ｡
 
-██╗  ██╗ █████╗ ███╗   ██╗██╗
-██║  ██║██╔══██╗████╗  ██║██║
-███████║███████║██╔██╗ ██║██║
-██╔══██║██╔══██║██║╚██╗██║██║
-██║  ██║██║  ██║██║ ╚████║██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
+ ██████╗ ██╗      ██████╗ ██╗    ██╗██╗   ██╗██╗   ██╗
+██╔════╝ ██║     ██╔═══██╗██║    ██║╚██╗ ██╔╝╚██╗ ██╔╝
+██║  ███╗██║     ██║   ██║██║ █╗ ██║ ╚████╔╝  ╚████╔╝
+██║   ██║██║     ██║   ██║██║███╗██║  ╚██╔╝    ╚██╔╝
+╚██████╔╝███████╗╚██████╔╝╚███╔███╔╝   ██║      ██║
+ ╚═════╝ ╚══════╝ ╚═════╝  ╚══╝╚══╝    ╚═╝      ╚═╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=650&lines=Konnichiwa%2C+I'm+%5BYOUR+NAME%5D+%F0%9F%8C%B8;Full+Stack+Developer+%E2%9C%A7;Crafting+Code+with+Cherry+Blossom+Care;Welcome+to+my+Digital+Garden+%F0%9F%8C%B8" alt="Typing SVG" />
@@ -29,9 +29,9 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Visitors&color=ffb7c5&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=for-the-badge&color=ffb7c5)
-![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME?label=Stars&style=for-the-badge&color=ffdde1)
+![Profile Views](https://komarev.com/ghpvc/?username=glowyyly&label=Profile%20Visitors&color=ffb7c5&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/glowyyly?label=Followers&style=for-the-badge&color=ffb7c5)
+![GitHub stars](https://img.shields.io/github/stars/glowyyly?label=Stars&style=for-the-badge&color=ffdde1)
 
 </div>
 
@@ -49,25 +49,24 @@
 
 ```yaml
 about_me:
-  name: "[YOUR NAME]"
-  alias: "[YOUR NICKNAME / HANDLE]"
-  role: "[YOUR JOB TITLE]"
-  location: "[YOUR CITY, COUNTRY] 🌍"
-  pronouns: "[YOUR PRONOUNS]"
+  name: "GLOWYY"
+  alias: "glowyyly"
+  location: "INDIA 🌍"
+  pronouns: "her"
 
   currently:
-    focus: "[WHAT YOU'RE BUILDING RIGHT NOW]"
-    learning: "[NEW SKILL / FRAMEWORK / LANGUAGE]"
-    collab_open: "[YES/NO — open to collaborate on ...]"
-    ask_me_about: "[YOUR EXPERTISE AREAS]"
+    focus: "aesthetic web devlopment"
+    learning: "C++"
+    collab_open: "YES"
+    ask_me_about: "DESIGNS"
 
   fun_facts:
-    - "🍡 [RANDOM FUN FACT ONE]"
-    - "🎋 [RANDOM FUN FACT TWO]"
-    - "🌙 [RANDOM FUN FACT THREE]"
-    - "☕ Fuel: [YOUR FAVORITE DRINK]"
+  - "🍡 Building AI projects and startup ideas."
+  - "🎋 Always learning something new."
+  - "🌙 Most productive after sunset."
+  - "☕ Fuel: Coffee"
 
-  philosophy: "[YOUR PERSONAL DEV MOTTO]"
+philosophy: "Build fast, stay curious, and keep shipping."
 ```
 
 </td>
@@ -141,22 +140,22 @@ about_me:
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=FFB7C5&icon_color=FFB7C5&text_color=FFDDE1&bg_color=1A1023&border_radius=15" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true&background=1A1023&ring=FFB7C5&fire=FFB7C5&currStreakLabel=FFDDE1&border_radius=15" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=glowyyly&show_icons=true&theme=radical&hide_border=true&title_color=FFB7C5&icon_color=FFB7C5&text_color=FFDDE1&bg_color=1A1023&border_radius=15" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=glowyyly&theme=radical&hide_border=true&background=1A1023&ring=FFB7C5&fire=FFB7C5&currStreakLabel=FFDDE1&border_radius=15" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true&title_color=FFB7C5&text_color=FFDDE1&bg_color=1A1023&border_radius=15" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowyyly&layout=compact&theme=radical&hide_border=true&title_color=FFB7C5&text_color=FFDDE1&bg_color=1A1023&border_radius=15" width="45%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true&color=FFB7C5&line=FFB7C5&point=FFDDE1&area=true&area_color=FFB7C5&bg_color=1A1023" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=glowyyly&theme=react-dark&hide_border=true&color=FFB7C5&line=FFB7C5&point=FFDDE1&area=true&area_color=FFB7C5&bg_color=1A1023" width="90%" />
 
 <br><br>
 
 ### ✿ Trophy Case ✿
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15&column=7" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=glowyyly&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15&column=7" width="90%" />
 
 </div>
 
@@ -171,9 +170,9 @@ about_me:
 ### 🐍 Contribution Snake 🐍
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glowyyly/glowyyly/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glowyyly/glowyyly/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/glowyyly/glowyyly/output/github-contribution-grid-snake.svg" width="90%" />
 </picture>
 
 <sub>✿ powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — add the workflow to your repo to activate ✿</sub>
@@ -281,11 +280,11 @@ about_me:
 
 | Status | Goal |
 |:---:|:---|
-| 🌕 | **[GOAL ONE]** — e.g. Master advanced [TECHNOLOGY] |
-| 🌗 | **[GOAL TWO]** — e.g. Contribute to [X] open-source projects |
-| 🌓 | **[GOAL THREE]** — e.g. Launch [YOUR PROJECT/STARTUP] |
-| 🌑 | **[GOAL FOUR]** — e.g. Earn [CERTIFICATION NAME] |
-| 🌑 | **[GOAL FIVE]** — e.g. Write [NUMBER] technical blog posts |
+| 🌕 | **Improve my JavaScript & React skills** |
+| 🌗 | **Build a production-ready AI SaaS product** |
+| 🌓 | **Launch Fuse and acquire first 100 users** |
+| 🌑 | **Grow a strong developer portfolio** |
+| 🌑 | **Become a successful tech entrepreneur** |
 
 <sub>🌕 blooming &nbsp;·&nbsp; 🌗 growing &nbsp;·&nbsp; 🌓 budding &nbsp;·&nbsp; 🌑 seed planted</sub>
 
@@ -326,7 +325,7 @@ about_me:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDDE1?style=for-the-badge&logo=buymeacoffee&logoColor=8B3A5C&labelColor=FFB7C5)](https://buymeacoffee.com/your-handle)
 [![Ko--fi](https://img.shields.io/badge/Ko--fi-FFDDE1?style=for-the-badge&logo=kofi&logoColor=8B3A5C&labelColor=FFB7C5)](https://ko-fi.com/your-handle)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-FFDDE1?style=for-the-badge&logo=githubsponsors&logoColor=8B3A5C&labelColor=FFB7C5)](https://github.com/sponsors/YOUR-USERNAME)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-FFDDE1?style=for-the-badge&logo=githubsponsors&logoColor=8B3A5C&labelColor=FFB7C5)](https://github.com/sponsors/glowyyly)
 
 *✿ every little bit helps this garden grow ✿*
 
@@ -346,7 +345,7 @@ about_me:
 
 > *"Code, like the cherry blossom, is beautiful because it is impermanent —*
 > *always growing, always changing, always worth tending to."*
-> — **[QUOTE AUTHOR / YOUR NAME]**
+> — **glowyy**
 
 <br>
 
