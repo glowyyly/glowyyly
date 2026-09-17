@@ -23,9 +23,9 @@
 
 **───── ⋆⋅☆⋅⋆ ─────**
 
-### 「 ソフトウェア開発者 」— *Software Engineer, Digital Artisan & Perpetual Learner*
+### 」— * Digital Artisan & Perpetual Learner*
 
-*✿ Turning coffee into code, and code into cherry blossom dreams ✿*
+*✿ Turning coffee into code, and code into dreams ✿*
 
 <br>
 
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-## 　🌸　 ────── 　about me　 ── 私について 　　 ────── 　🌸
+## 　🌸　 ────── 　about me 　 ────── 　🌸
 
 </div>
 
@@ -55,8 +55,7 @@ about_me:
   pronouns: "her"
 
   currently:
-    focus: "aesthetic web devlopment"
-    learning: "C++"
+    focus: "Learning"
     collab_open: "YES"
     ask_me_about: "DESIGNS"
 
@@ -81,7 +80,7 @@ philosophy: "Build fast, stay curious, and keep shipping."
 
 <div align="center">
 
-## 　🌸　 ────── 　tech stack　 ── 技術スタック 　　 ────── 　🌸
+## 　🌸　 ────── 　tech stack　　 ────── 　🌸
 
 </div>
 
@@ -136,7 +135,7 @@ philosophy: "Build fast, stay curious, and keep shipping."
 
 <div align="center">
 
-## 　🌸　 ────── 　github stats　 ── 統計 　　 ────── 　🌸
+## 　🌸　 ────── 　github stats　 ────── 　🌸
 
 <br>
 
@@ -187,7 +186,7 @@ philosophy: "Build fast, stay curious, and keep shipping."
 
 <div align="center">
 
-## 　🌸　 ────── 　featured projects　 ── 作品 　　 ────── 　🌸
+## 　🌸　 ────── 　featured projects　 ────── 　🌸
 
 </div>
 
@@ -268,7 +267,7 @@ philosophy: "Build fast, stay curious, and keep shipping."
 
 <div align="center">
 
-## 　🌸　 ────── 　current goals　 ── 目標 　　 ────── 　🌸
+## 　🌸　 ────── 　current goals　  ────── 　🌸
 
 </div>
 
@@ -298,7 +297,7 @@ philosophy: "Build fast, stay curious, and keep shipping."
 
 <div align="center">
 
-## 　🌸　 ────── 　connect with me　 ── 繋がる 　　 ────── 　🌸
+## 　🌸　 ────── 　connect with me　　　 ────── 　🌸
 
 <br>
 
@@ -319,7 +318,7 @@ philosophy: "Build fast, stay curious, and keep shipping."
 
 <div align="center">
 
-## 　🌸　 ────── 　support my work　 ── 応援 　　 ────── 　🌸
+## 　🌸　 ────── 　support my work　　　 ────── 　🌸
 
 <br>
 
@@ -339,7 +338,7 @@ philosophy: "Build fast, stay curious, and keep shipping."
 
 <div align="center">
 
-## 　🌸　 ────── 　a little something　 ── 一言 　　 ────── 　🌸
+## 　🌸　 ────── 　a little something　　 ────── 　🌸
 
 <br>
 
